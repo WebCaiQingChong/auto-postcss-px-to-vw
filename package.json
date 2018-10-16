@@ -1,5 +1,5 @@
 {
-  "name": "postcss-px-to-vw",
+  "name": "@qingchong/postcss-plugins-px2vw",
   "description": "a postcss plugins",
   "version": "0.0.1",
   "author": "qingchong",
