@@ -1,7 +1,7 @@
 {
   "name": "auto-postcss-px-to-vw",
   "description": "a postcss plugins",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "qingchong",
   "license": "MIT",
   "repository": {
