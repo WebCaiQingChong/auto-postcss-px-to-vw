@@ -1,12 +1,12 @@
 {
-  "name": "auto-postcss-px-to-vw",
+  "name": "postcss-px-to-vw",
   "description": "a postcss plugins",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "author": "qingchong",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:WebCaiQingChong/postcss-px-to-viewport.git"
+    "url": "git@github.com:WebCaiQingChong/auto-postcss-px-to-vw.git"
   },
   "bugs": "https://github.com/WebCaiQingChong/auto-postcss-px-to-vw/issues",
   "homepage": "https://github.com/WebCaiQingChong/auto-postcss-px-to-vw",
